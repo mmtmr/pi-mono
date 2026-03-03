@@ -9,10 +9,8 @@ packages/*/dist-chrome/
 packages/*/dist-firefox/
 
 # Environment
-.env
 
 # Editor files
-.vscode/
 .zed/
 .idea/
 *.swp
@@ -33,3 +31,4 @@ pi-*.html
 out.html
 packages/coding-agent/binaries/
 todo.md
+config.bat
